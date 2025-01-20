@@ -1,4 +1,4 @@
-# Heyyy, I'm Hoang Vo or you can call me Felix Vo 👋
+# Heyyy, I'm Hoang Vo or you can call me Felix 👋
 
 ## About Me
 - 🎓 Data Science major with a minor in Economics.
