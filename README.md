@@ -1,6 +1,6 @@
 # Hi there, I'm Hoang Vo or you can call me Felix Vo 👋
 
-<!--
+
 **felixxvo7/felixxvo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me
