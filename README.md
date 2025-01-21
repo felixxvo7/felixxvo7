@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on End-to-End Stock Market Analysis and Prediction.
 
 ## Skills
-- **Programming Languages**: Python, Java, R, Python, Java, JavaScript, C /C++, Matlab, SAS
+- **Programming Languages**: Python, R, Java, JavaScript, C /C++, Matlab, SAS
 - **Tools/Technologies**: PowerBI, Excel, PuLP, LaTeX, Pandas, SQL, Git, 
 
 ## 📚 Projects
