@@ -1,19 +1,26 @@
-# Heyyy, I'm Hoang Vo or you can call me Felix 👋
+# Heyyy, I'm Hoang Vo, or you can call me Felix! 👋
 
 ## About Me
-- 🎓 Data Science major with a minor in Economics.
-- 💡 Interested in **data science, machine learning, and economic or finance modelling**.
-- 🌱 Currently learning **PowerBI** and sharpening my Python skills. ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- 🔭 I’m currently working on End-to-End Stock Market Analysis and Prediction.
+I’m a **data analyst** passionate about turning raw data into meaningful insights. My journey began in **financial analytics and stock market analysis**, where I honed my skills in Python, R, SQL, and machine learning to uncover trends and create actionable opportunities.
+
+Recently, I’ve focused on applying these tools to **healthcare**—improving patient outcomes, streamlining clinical workflows, and advancing public health research. I’m intrigued by how data bridges industries: the same algorithms that predict market shifts can also refine medical diagnoses or address healthcare inequities.
+
+I’m always eager to connect with professionals in **data science, finance, or healthcare innovation**. Let’s explore how analytics can solve challenges, from optimizing investments to making healthcare more equitable.
 
 ## Skills
-- **Programming Languages**: Python, R, Java, JavaScript, C /C++, Matlab, SAS
-- **Tools/Technologies**: PowerBI, Excel, PuLP, LaTeX, Pandas, SQL, Git, 
+- **Programming Languages**: Python, R, SQL, Java, JavaScript, C/C++, Matlab, SAS
+- **Tools & Technologies**: Power BI, Excel, PuLP, LaTeX, Pandas, Git
+- **Specialties**: Data Analytics, Machine Learning, Financial & Economic Modeling, Healthcare Analytics
 
 ## 📚 Projects
-- **Telegram Finance Tracker and Budget Visualization System** Developed a Telegram bot integration for real-time income and expense tracking, allowing users to log data directly through chat commands. 
-- **End-to-End Stock Market Analysis and Predictions:**: Stock market analysis and prediction system to get real-time visualization for informed financial decision-making.
+Here are some of my key projects, leveraging data science and machine learning to drive insights across healthcare, finance, and automation.
+- **AI-Driven Mental Health Trend Analysis & Prediction** - Forecasting suicide rates using SARIMAX, logistic regression, and sentiment analysis on Reddit data.
+- **End-to-End Stock Market Analysis and Prediction** - Developed an automated pipeline for stock analysis and LSTM-based price prediction.
+- **Telegram Finance Tracker and Budget Visualization System** - Built a Telegram bot for real-time financial tracking and visualization.
+- **Portfolio Optimization for Stock Trading Assets** - Applied CAPM and mean-variance analysis to optimize stock portfolios in MATLAB.
 
 ## 🌐 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/felixvo7/)
+
+#DataAnalytics #HealthcareInnovation #FinancialModeling #MachineLearning
 
