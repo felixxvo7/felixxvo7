@@ -1,4 +1,4 @@
-# Heyyy, I'm Hoang Vo, or you can call me Felix! 👋
+# Heyyy, I'm Hoang Vo, or you can call me Felix!
 
 ## About Me
 I’m in my last year of BSci—Data Science with Economics minor @ the University of Manitoba. My journey began in **financial analytics and stock market analysis**, where I improved my skills in Python, R, SQL, and machine learning to discover trends and create actionable opportunities. Recently, I’ve focused on applying these tools to **healthcare**—improving patient outcomes, streamlining clinical workflows, and advancing public health research.
