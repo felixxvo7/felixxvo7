@@ -1,9 +1,7 @@
 # Heyyy, I'm Hoang Vo, or you can call me Felix! 👋
 
 ## About Me
-I’m a **data analyst** passionate about turning raw data into meaningful insights. My journey began in **financial analytics and stock market analysis**, where I honed my skills in Python, R, SQL, and machine learning to uncover trends and create actionable opportunities.
-
-Recently, I’ve focused on applying these tools to **healthcare**—improving patient outcomes, streamlining clinical workflows, and advancing public health research. I’m intrigued by how data bridges industries: the same algorithms that predict market shifts can also refine medical diagnoses or address healthcare inequities.
+I’m in my last year of BSci—Data Science with Economics minor @ the University of Manitoba. My journey began in **financial analytics and stock market analysis**, where I improved my skills in Python, R, SQL, and machine learning to discover trends and create actionable opportunities. Recently, I’ve focused on applying these tools to **healthcare**—improving patient outcomes, streamlining clinical workflows, and advancing public health research.
 
 I’m always eager to connect with professionals in **data science, finance, or healthcare innovation**. Let’s explore how analytics can solve challenges, from optimizing investments to making healthcare more equitable.
 
