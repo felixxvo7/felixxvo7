@@ -9,6 +9,7 @@ I’m always eager to connect with professionals in **data science, finance, or 
 - **Programming Languages**: Python, R, SQL, Java, JavaScript, C/C++, Matlab, SAS
 - **Tools & Technologies**: Power BI, Excel, PuLP, LaTeX, Pandas, Git
 - **Specialties**: Data Analytics, Machine Learning, Financial & Economic Modeling, Healthcare Analytics
+- **Data Science**: Visualization, Model Machine Learning (LSTM, SARIMAX, Regressions), CAPM, Sentiment Analysis.
 
 ## Projects
 Here are some of my key projects, leveraging data science and machine learning to drive insights across healthcare, finance, and automation.
